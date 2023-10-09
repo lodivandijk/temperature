@@ -1,4 +1,4 @@
-package com.temperature.temperatureMeasure.entity;
+package com.temperature.temperaturemeasure.entity;
 
 import java.util.Objects;
 
